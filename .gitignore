@@ -31,6 +31,15 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+*.exe
+*.obj
+
+# IDA files
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
